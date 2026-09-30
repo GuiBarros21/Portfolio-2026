@@ -1,7 +1,7 @@
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import hero from "../assets/hero.png";
-import CV from "../assets/gui barros.pdf";
+import CV from "../assets/Gui Barros.pdf";
 import { DownloadIcon, Mail } from "lucide-react";
 function Hero() {
 	const socialIcons = [
